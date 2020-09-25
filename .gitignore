@@ -1,0 +1,5 @@
+
+Pipfile.lock
+
+images/*.png
+images/*/*.png
